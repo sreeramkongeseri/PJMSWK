@@ -43,6 +43,13 @@ This is an entry-level course on the key concepts of project management. Student
   </tr> 
   
 </tbody></table>
+<h4>Assignments</h4>
+<ul>
+<li>Submission - All submissions must be submitted on time without any delay at the prescribed day and time. If you lack clarity, take proactive steps to react out to your colleagues or the faculty to get clarification.</li>
+<li>Late submission - Late work will be deducted 15% per twenty-four hour period that elapses after the due date. If foreseen or unforeseen circumstances prevent you from completing an assignment on time, you may request an extension. Extensions must be requested in advance of the due date. If the situation warrants an extension, faculty will determine a new due date for the same based on your individual circumstances.</li>
+<li>	Plagiarism - Presenting someone else’s ideas as your own, either verbatim or recast in your own words – is a serious academic offense with grave consequences. Please familiarize yourself with the discussion of plagiarism in our campus policies.</li>
+</ul>
+
 
 <h4>Syllabus</h4>
 <table>
@@ -69,10 +76,4 @@ Case presentations on successful proposal &amp; preparing a project proposal for
 </td>
   </tr>
 </tbody></table>
-<h4>Assignments</h4>
-<ul>
-<li>Submission - All submissions must be submitted on time without any delay at the prescribed day and time. If you lack clarity, take proactive steps to react out to your colleagues or the faculty to get clarification.</li>
-<li>Late submission - Late work will be deducted 15% per twenty-four hour period that elapses after the due date. If foreseen or unforeseen circumstances prevent you from completing an assignment on time, you may request an extension. Extensions must be requested in advance of the due date. If the situation warrants an extension, faculty will determine a new due date for the same based on your individual circumstances.</li>
-<li>	Plagiarism - Presenting someone else’s ideas as your own, either verbatim or recast in your own words – is a serious academic offense with grave consequences. Please familiarize yourself with the discussion of plagiarism in our campus policies.</li>
-</ul>
 
