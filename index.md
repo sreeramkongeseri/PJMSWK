@@ -47,7 +47,7 @@ This is an entry-level course on the key concepts of project management. Student
 <ul>
 <li>Submission - All submissions must be submitted on time without any delay at the prescribed day and time. If you lack clarity, take proactive steps to react out to your colleagues or the faculty to get clarification.</li>
 <li>Late submission - Late work will be deducted 15% per twenty-four hour period that elapses after the due date. If foreseen or unforeseen circumstances prevent you from completing an assignment on time, you may request an extension. Extensions must be requested in advance of the due date. If the situation warrants an extension, faculty will determine a new due date for the same based on your individual circumstances.</li>
-<li>	Plagiarism - Presenting someone else’s ideas as your own, either verbatim or recast in your own words – is a serious academic offense with grave consequences. Please familiarize yourself with the discussion of plagiarism in our campus policies.</li>
+<li>	Plagiarism - Presenting someone else’s ideas as your own, either verbatim or recast in your own words – is a serious academic offense with grave consequences. Please familiarize yourself with the discussion of plagiarism in our campus policies. All assignments are put through TurnitIn, and any similarity score of more than 40% will be flagged as plagiarism. The penalties are as follows: <br>1st instance of plagiarism - 0 marks for the specific assignment<br> 2nd instance of plagiarism - GRADE DOWN for the entire course <br> 3rd instance of plagiarism - FAIL in the course. <br> For group submissions, the above policy will be enforced on all the team members equally. </li>
 </ul>
 
 
