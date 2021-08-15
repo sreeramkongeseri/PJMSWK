@@ -14,35 +14,15 @@ This is an entry-level course on the key concepts of project management. Student
 
 <strong>At the end of the course, students will be able to formulate project charter, design project budget, create work breakdown structure, identify, and manage risks.</strong>
 <h4>Teaching Philosophy & Approach</h4>
-<table>
-  <tbody><tr>
-    <td>Learning Attitude</td>
-    <td>Attitude is one of the fundamental determinants of learning outcome. The more positive, the better. 
-<a href="https://files.eric.ed.gov/fulltext/EJ1227617.pdf" rel="nofollow">https://files.eric.ed.gov/fulltext/EJ1227617.pdf</a>
-</td>
-  </tr>
-  <tr>
-    <td>Personality v/s Pedagogy</td>
-    <td>Focus will be paid to critical factors that significantly determine the quality of teaching and learning such as relevant content, purposive activities, and consistent policies, rather than the personality development of the faculty. 
-<a href="https://www.edweek.org/teaching-learning/opinion-what-makes-a-great-teacher-pedagogy-or-personality/2019/09" rel="nofollow">https://www.edweek.org/teaching-learning/opinion-what-makes-a-great-teacher-pedagogy-or-personality/2019/09</a> </td>
-  </tr>
-   <tr>
-    <td>Ownership of learning process</td>
-    <td>Academic performance increase significantly when students take ownership of the learning process, as opposed to, expecting 'to be taught' everything by the teacher. 
-<a href="https://www.researchgate.net/publication/275490135_Student_Ownership_of_Learning_as_a_Key_Component_of_College_Readiness" rel="nofollow">https://www.researchgate.net/publication/275490135_Student_Ownership_of_Learning_as_a_Key_Component_of_College_Readiness</a></td>
-  </tr>
-   <tr>
-    <td>Friend v/s Sage</td>
-    <td> I see my role as a facilitator of learning activities rather than an all-knowing sage who gives lectures. There are a lot of project managements concepts and tools that I am not aware of. Perhaps, you can teach me that when you get a chance. 
-<a href="https://www.edutopia.org/redefining-role-teacher" rel="nofollow">https://www.edutopia.org/redefining-role-teacher</a> <a href="http://faculty.washington.edu/kate1/ewExternalFiles/SageOnTheStage.pdf" rel="nofollow">http://faculty.washington.edu/kate1/ewExternalFiles/SageOnTheStage.pdf</a> </td>
-  </tr> 
-   <tr>
-    <td> Work &amp; Evaluation style</td>
-    <td> 	I prefer real world assignments and projects &amp; play. I do not prefer traditional, written exams
-<a href="https://medium.com/@ammastaal/video-games-instead-of-written-exams-e88ff4431f73" rel="nofollow">https://medium.com/@ammastaal/video-games-instead-of-written-exams-e88ff4431f73</a> </td>
-  </tr> 
-  
-</tbody></table>
+Learning Attitude - Attitude is one of the fundamental determinants of learning outcome. The more positive, the better. 
+<a href="https://files.eric.ed.gov/fulltext/EJ1227617.pdf" rel="nofollow">https://files.eric.ed.gov/fulltext/EJ1227617.pdf</a><br><br>
+    Ownership of learning process - Academic performance increase significantly when students take ownership of the learning process, as opposed to, expecting 'to be taught' everything by the teacher. 
+<a href="https://www.researchgate.net/publication/275490135_Student_Ownership_of_Learning_as_a_Key_Component_of_College_Readiness" rel="nofollow">https://www.researchgate.net/publication/275490135_Student_Ownership_of_Learning_as_a_Key_Component_of_College_Readiness</a><br><br>
+  I see my role as a facilitator of learning activities rather than an all-knowing sage who gives lectures. There are a lot of project managements concepts and tools that I am not aware of. Perhaps, you can teach me that when you get a chance.  Focus will be paid to critical factors that significantly determine the quality of teaching and learning such as relevant content, purposive activities, and consistent policies, rather than the personality development of the faculty. 
+<a href="https://www.edutopia.org/redefining-role-teacher" rel="nofollow">https://www.edutopia.org/redefining-role-teacher</a> <a href="http://faculty.washington.edu/kate1/ewExternalFiles/SageOnTheStage.pdf" rel="nofollow">http://faculty.washington.edu/kate1/ewExternalFiles/SageOnTheStage.pdf</a><a href="https://www.edweek.org/teaching-learning/opinion-what-makes-a-great-teacher-pedagogy-or-personality/2019/09" rel="nofollow">https://www.edweek.org/teaching-learning/opinion-what-makes-a-great-teacher-pedagogy-or-personality/2019/09</a> 
+  <br><br> Work &amp; Evaluation style - 	I prefer real world assignments and projects &amp; play. I do not prefer traditional, written exams
+<a href="https://medium.com/@ammastaal/video-games-instead-of-written-exams-e88ff4431f73" rel="nofollow">https://medium.com/@ammastaal/video-games-instead-of-written-exams-e88ff4431f73</a>
+ 
 <h4>Assignments</h4>
 <ul>
 <li>Submission - All submissions must be submitted on time without any delay at the prescribed day and time. If you lack clarity, take proactive steps to react out to your colleagues or the faculty to get clarification.</li>
