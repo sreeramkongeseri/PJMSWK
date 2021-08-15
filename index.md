@@ -10,9 +10,9 @@ Office hours: 2:00-4:00pm, Wednesday & Friday<br>
 Project management is the single most effective method of running programs and projects in an organization within defined and dynamic constraints. The concept of project management is universal and can be observed anywhere there is an organised activity, in every organization across various settings. Project management principles, tools and methodologies are essential to the success of organization and long term future. This course provides an exposure to the essentials i.e., the project management language, frameworks, and the way of project leaders in order to increase the success of an organization or an individual.
 
 <h4>Course Objective</h4>
-This is an entry-level course on the key concepts of project management. Students will gain knowledge to assess needs, formulate and coordinate projects and programs required for the success of an organization. Course covers a board set of topics to train students to become successful leaders who will be undertake such projects. PJM course will include a variety of pedagogical methods and academic exercises that will help simulate real-world challenges, thereby enhancing learning dividends for the students. <br><br>
+This is an entry-level course on the key concepts of project management. Students will gain knowledge to assess needs, formulate and coordinate projects and programs required for the success of an organization. Course covers a board, fundamental set of topics. PJM course will include a variety of pedagogical methods and academic exercises that will help simulate real-world challenges, thereby enhancing learning dividends for the students. <br><br>
 
-<strong>At the end of the course, students will be able to formulate project charter, design project budget, create work breakdown structure, identify, and manage risks.</strong>
+<strong>At the end of the course, students should be able to formulate project proposal, design project budget, create work breakdown structure, identify, and manage risks.</strong>
 <h4>Teaching Philosophy & Approach</h4>
 Learning Attitude - Attitude is one of the fundamental determinants of learning outcome. The more positive, the better. 
 <a href="https://files.eric.ed.gov/fulltext/EJ1227617.pdf" rel="nofollow">https://files.eric.ed.gov/fulltext/EJ1227617.pdf</a><br><br>
