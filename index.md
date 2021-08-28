@@ -39,20 +39,40 @@ Learning Attitude - Attitude is one of the fundamental determinants of learning 
   </tr>
   <tr>
     <td>Unit 01</td>
-    <td>An overview of concepts and processes - understanding project, project life cycle, project management process; Activities, output, outcome, deliverables, performance indicators and evidence.</td>
+    <td>Project Management- An overview of concepts and processes organizations and work; 
+operations, understanding project, project life cycle, project management process; Activities, 
+output, outcome, deliverables, performance indicators and evidence</td>
   </tr>
   <tr>
     <td>Unit 02</td>
-    <td>Various stages, tools and methods of project management including Project Initiation, planning, execution, monitoring and control, and closure</td>
+    <td>Basic steps; strategies and planning, preparing the pre-planning stage; 
+Mission and Vision statement; SWOT analysis; situation assessment, identification of critical 
+issues; contents of a strategic plan; characteristics of an effective annual operating plan, 
+implementing strategic plan. Objective Oriented Planning: Logical Framework Approach; analysis of the project context; 
+stakeholder analysis, problem analysis, objective analysis, plan of activities, resource planning, 
+risk analysis and risk management./td>
   </tr>
   <tr>
     <td>Unit 03</td>
-    <td>Drafting project charter - Setting the project goal, setting budget goals, and designing budgets, identifying stakeholders, risks and constraints. Drafting risk management plans, communication plans and stakeholder management plans.</td>
+    <td>Setting goals and securing commitment; 
+the project goal, developing goal statements, setting budget goals; time and money, managing 
+conflicts, creating goal commitment</td>
   </tr>
   <tr>
     <td>Unit 04</td>
-    <td>Essential characteristics of good project leader, managing teams in projects, training for staff in social welfare projects; Communicating risk, essential characteristics of effective communication; Public relations. 
-Case presentations on successful proposal &amp; preparing a project proposal for funding
+    <td>Gantt Charts; PERT/CPM 
+Networks; project control, purpose, processes; periodic control techniques, preventive control 
+techniques, cost control, monitoring, midterm evaluation and end term evaluation, providing 
+components and indictors for evaluations.
+Project completion and review; improving project performance, steps for project completion, 
+learning before doing, learning after doing, carrying out reviews
+</td>
+  </tr>
+       <tr>
+    <td>Unit 05</td>
+    <td> Leadership in Project Management- Essential characteristics of good project leader, 
+managing teams in projects, training for staff in social welfare projects; Communicating risk, 
+essential characteristics of effective communication; Public relations.
 </td>
   </tr>
 </tbody></table>
