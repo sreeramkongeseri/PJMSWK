@@ -1,10 +1,10 @@
 <h1>Project Management & Formulation SWK 602</h1>
 
-Instructor: Sreeram Kongeseri<br>
+Instructor: Sreeram Kongeseri & Sivaprasad J V<br>
 Office: AMMACHI Labs, Amritapuri Campus<br>
-Email: sreeramk@am.amrita.edu<br>
-Lecture: 9:00-11:00am, Wednesday<br>
-Office hours: 2:00-4:00pm, Wednesday & Friday<br>
+Email: sreeramk@am.amrita.edu, sivaprasadjv@am.amrita.edu<br>
+Lecture hours: 2:00 pm to 3:50 pm Monday & 2:00 pm to 3:50 pm Wednesday<br>
+Office hours: 2:00-4:00pm, Friday<br>
 
 <h4>Introduction</h4>
 Project management is the single most effective method of running programs and projects in an organization within defined and dynamic constraints. The concept of project management is universal and can be observed anywhere there is an organised activity, in every organization across various settings. Project management principles, tools and methodologies are essential to the success of organization and long term future. This course provides an exposure to the essentials i.e., the project management language, frameworks, and the way of project leaders in order to increase the success of an organization or an individual.
