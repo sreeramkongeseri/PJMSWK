@@ -7,16 +7,16 @@ Lecture hours: 2:00 pm to 3:50 pm Wednesday & 2:00 pm to 3:50 pm Thursday<br>
 Office hours: 2:00-4:00pm, Friday<br>
 
 <h4>Introduction</h4>
-Project management is the single most effective method of running programs and projects in an organization within defined and dynamic constraints. The concept of project management is universal and can be observed anywhere there is an organised activity, in every organization across various settings. Project management principles, tools and methodologies are essential to the success of organization and long term future. This course provides an exposure to the essentials i.e., the project management language, frameworks, and the way of project leaders in order to increase the success of an organization or an individual.
+Project management is the single most effective method of running programs and projects in an organization. The concept of project management is universal and can be observed anywhere there is organised activity, across various settings. Project management principles, tools and methodologies are essential to the success of organization and long term future. This course provides an exposure to the essentials i.e., the project management language, frameworks, and the way of project leaders, in order to increase the success of an organization or an individual.
 
-<h5> Please note that the below information pertains to two courses that I teach for social work students - SWK602 and SWK212 </h5>
+Please note that the below information pertains to two courses that I teach for social work students - <h5> SWK602 and SWK212 </h5>
 
 <h4>Teaching Philosophy & Approach</h4>
 Learning Attitude - Attitude is one of the fundamental determinants of learning outcome. The more positive, the better. 
 <a href="https://files.eric.ed.gov/fulltext/EJ1227617.pdf" rel="nofollow">https://files.eric.ed.gov/fulltext/EJ1227617.pdf</a><br><br>
     Ownership of learning process - Academic performance increase significantly when students take ownership of the learning process, as opposed to, expecting 'to be taught' everything by the teacher. 
 <a href="https://www.researchgate.net/publication/275490135_Student_Ownership_of_Learning_as_a_Key_Component_of_College_Readiness" rel="nofollow">https://www.researchgate.net/publication/275490135_Student_Ownership_of_Learning_as_a_Key_Component_of_College_Readiness</a><br><br>
-  I see my role as a facilitator of learning activities rather than an all-knowing sage who gives lectures. There are a lot of project managements concepts and tools that I am not aware of. Perhaps, you can teach me that when you get a chance.  Focus will be paid to critical factors that significantly determine the quality of teaching and learning such as relevant content, purposive activities, and consistent policies, rather than the personality development of the faculty. 
+  I see my role as a facilitator of learning activities rather than an all-knowing sage who deliver lectures. There are a lot of project managements concepts and tools that I am not aware of. Perhaps, you can teach me that when you get a chance.  Focus will be paid to critical factors that significantly determine the quality of teaching and learning such as relevant content, purposive activities, and consistent policies, rather than the personality development of the faculty. 
 <a href="https://www.edutopia.org/redefining-role-teacher" rel="nofollow">https://www.edutopia.org/redefining-role-teacher</a> <a href="http://faculty.washington.edu/kate1/ewExternalFiles/SageOnTheStage.pdf" rel="nofollow">http://faculty.washington.edu/kate1/ewExternalFiles/SageOnTheStage.pdf</a><a href="https://www.edweek.org/teaching-learning/opinion-what-makes-a-great-teacher-pedagogy-or-personality/2019/09" rel="nofollow">https://www.edweek.org/teaching-learning/opinion-what-makes-a-great-teacher-pedagogy-or-personality/2019/09</a> 
   <br><br> Work &amp; Evaluation style - 	I prefer real world assignments and projects &amp; play. I do not prefer traditional, written exams
 <a href="https://medium.com/@ammastaal/video-games-instead-of-written-exams-e88ff4431f73" rel="nofollow">https://medium.com/@ammastaal/video-games-instead-of-written-exams-e88ff4431f73</a>
@@ -36,7 +36,7 @@ This is an entry-level course on the key concepts of project management. Student
 <table>
   <tbody><tr>
     <th>Unit</th>
-    <th>SWK 602Concepts</th>
+    <th>SWK 212 Concepts</th>
    <tr>
     <td>Unit I - Project management fundamentals</td>
     <td>An overview of concepts and processes - understanding project, project life cycle, project management process; Activities, output, outcome, deliverables, performance indicators and evidence.</td>
@@ -66,7 +66,7 @@ This is an entry-level course on the key concepts of project management. Student
 <table>
   <tbody><tr>
     <th>Unit</th>
-    <th>SWK 602Concepts</th>
+    <th>SWK 602 Concepts</th>
   </tr>
   <tr>
     <td> Unit 01</td>
