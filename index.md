@@ -1,9 +1,9 @@
 <h1>Project Management & Formulation SWK 602</h1>
 
-Instructor: Sreeram Kongeseri & Sivaprasad J V<br>
+Instructor: Sreeram Kongeseri<br>
 Office: AMMACHI Labs, Amritapuri Campus<br>
-Email: sreeramk@am.amrita.edu, sivaprasadjv@am.amrita.edu<br>
-Lecture hours: 2:00 pm to 3:50 pm Monday & 2:00 pm to 3:50 pm Wednesday<br>
+Email: sreeramk@am.amrita.edu<br>
+Lecture hours: 2:00 pm to 3:50 pm Wednesday & 2:00 pm to 3:50 pm Thursday<br>
 Office hours: 2:00-4:00pm, Friday<br>
 
 <h4>Introduction</h4>
