@@ -35,9 +35,10 @@ Learning Attitude - Attitude is one of the fundamental determinants of learning 
 </ul>
 
 
-<h4>Bachelor's Syllabus</h4>
+
 <table>
   <tbody><tr>
+      <th> <h4>Bachelor's Syllabus</h4> </th>
     <th>Unit</th>
     <th>Concepts</th>
   </tr>
