@@ -11,12 +11,6 @@ Project management is the single most effective method of running programs and p
 
 <h5> Please note that the below information pertains to two courses that I teach for social work students - SWK602 and SWK212 </h5>
 
-<h4>Course Objective</h4>
-This is an entry-level course on the key concepts of project management. Students will gain knowledge to assess needs, formulate and coordinate projects and programs required for the success of an organization. Course covers a board, fundamental set of topics. PJM course will include a variety of pedagogical methods and academic exercises that will help simulate real-world challenges, thereby enhancing learning dividends for the students. <br><br>
-
-<strong>SWK 212 - At the end of the course, students should be able to formulate project proposal and design a basic project budget.</strong>
-
-<strong>SWK 602 - At the end of the course, students should be able to formulate project proposal, design project budget, create work breakdown structure, identify and manage risks.</strong>
 <h4>Teaching Philosophy & Approach</h4>
 Learning Attitude - Attitude is one of the fundamental determinants of learning outcome. The more positive, the better. 
 <a href="https://files.eric.ed.gov/fulltext/EJ1227617.pdf" rel="nofollow">https://files.eric.ed.gov/fulltext/EJ1227617.pdf</a><br><br>
@@ -34,7 +28,10 @@ Learning Attitude - Attitude is one of the fundamental determinants of learning 
 <li>	Plagiarism - Presenting someone else’s ideas as your own, either verbatim or recast in your own words – is a serious academic offense with grave consequences. Please familiarize yourself with the discussion of plagiarism in our campus policies. All assignments are put through TurnitIn, and any similarity score of more than 40% will be flagged as plagiarism. The penalties are as follows: <br>1st instance of plagiarism - 0 marks for the specific assignment<br> 2nd instance of plagiarism - GRADE DOWN for the entire course <br> 3rd instance of plagiarism - FAIL in the course. <br> For group submissions, the above policy will be enforced on all the team members equally. </li>
 </ul>
 
+<h4>Course Objective</h4>
+This is an entry-level course on the key concepts of project management. Students will gain knowledge to assess needs, formulate and coordinate projects and programs required for the success of an organization. Course covers a board, fundamental set of topics. PJM course will include a variety of pedagogical methods and academic exercises that will help simulate real-world challenges, thereby enhancing learning dividends for the students. <br><br>
 
+<strong>SWK 212 - At the end of the course, students should be able to formulate project proposal and design a basic project budget.</strong>
 
 <table>
   <tbody><tr>
@@ -64,7 +61,7 @@ Learning Attitude - Attitude is one of the fundamental determinants of learning 
 </tbody></table>
 
 
-
+<strong>SWK 602 - At the end of the course, students should be able to formulate project proposal, design project budget, create work breakdown structure, identify and manage risks.</strong>
 
 <table>
   <tbody><tr>
