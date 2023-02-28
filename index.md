@@ -9,7 +9,7 @@ Office hours: 2:00-4:00pm, Friday<br>
 <h4>Introduction</h4>
 Project management is the single most effective method of running programs and projects in an organization. The concept of project management is universal and can be observed anywhere there is organised activity, across various settings. Project management principles, tools and methodologies are essential to the success of organization and long term future. This course provides an exposure to the essentials i.e., the project management language, frameworks, and the way of project leaders, in order to increase the success of an organization or an individual.
 
-Please note that the below information pertains to two courses that I teach for social work students - <h5> SWK602 and SWK212 </h5>
+Please note that the below information pertains to two courses that I teach for social work students - <b> SWK602 and SWK212 </b>
 
 <h4>Teaching Philosophy & Approach</h4>
 Learning Attitude - Attitude is one of the fundamental determinants of learning outcome. The more positive, the better. 
