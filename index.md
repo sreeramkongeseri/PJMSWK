@@ -38,9 +38,9 @@ Learning Attitude - Attitude is one of the fundamental determinants of learning 
 
 <table>
   <tbody><tr>
-      <th> <h4>Bachelor's Syllabus</h4> </th>
+     
     <th>Unit</th>
-    <th>Concepts</th>
+    <th>SWK 212 Concepts</th>
   </tr>
   <tr>
     <td>Unit I - Project management fundamentals</td>
@@ -70,9 +70,8 @@ Learning Attitude - Attitude is one of the fundamental determinants of learning 
 
 <table>
   <tbody><tr>
-      <th><h4>Master's Syllabus</h4></th>
     <th>Unit</th>
-    <th>Concepts</th>
+    <th>SWK 602Concepts</th>
   </tr>
   <tr>
     <td> Unit 01</td>
