@@ -1,4 +1,4 @@
-<h1>Project Management & Formulation SWK 602</h1>
+<h1>Project Management for Social Work Program</h1>
 
 Instructor: Sreeram Kongeseri<br>
 Office: AMMACHI Labs, Amritapuri Campus<br>
@@ -8,6 +8,8 @@ Office hours: 2:00-4:00pm, Friday<br>
 
 <h4>Introduction</h4>
 Project management is the single most effective method of running programs and projects in an organization within defined and dynamic constraints. The concept of project management is universal and can be observed anywhere there is an organised activity, in every organization across various settings. Project management principles, tools and methodologies are essential to the success of organization and long term future. This course provides an exposure to the essentials i.e., the project management language, frameworks, and the way of project leaders in order to increase the success of an organization or an individual.
+
+<h5> Please note that the below information pertains to two courses that I teach for social work students - SWK602 and SWK212 </h5>
 
 <h4>Course Objective</h4>
 This is an entry-level course on the key concepts of project management. Students will gain knowledge to assess needs, formulate and coordinate projects and programs required for the success of an organization. Course covers a board, fundamental set of topics. PJM course will include a variety of pedagogical methods and academic exercises that will help simulate real-world challenges, thereby enhancing learning dividends for the students. <br><br>
@@ -30,15 +32,45 @@ Learning Attitude - Attitude is one of the fundamental determinants of learning 
 <li>	Plagiarism - Presenting someone else’s ideas as your own, either verbatim or recast in your own words – is a serious academic offense with grave consequences. Please familiarize yourself with the discussion of plagiarism in our campus policies. All assignments are put through TurnitIn, and any similarity score of more than 40% will be flagged as plagiarism. The penalties are as follows: <br>1st instance of plagiarism - 0 marks for the specific assignment<br> 2nd instance of plagiarism - GRADE DOWN for the entire course <br> 3rd instance of plagiarism - FAIL in the course. <br> For group submissions, the above policy will be enforced on all the team members equally. </li>
 </ul>
 
-
-<h4>Syllabus</h4>
+<h4>Bachelor's Syllabus</h4>
 <table>
   <tbody><tr>
     <th>Unit</th>
     <th>Concepts</th>
   </tr>
   <tr>
-    <td>Unit 01</td>
+    <td>Unit I - Project management fundamentals</td>
+    <td>An overview of concepts and processes - understanding project, project life cycle, project management process; Activities, output, outcome, deliverables, performance indicators and evidence.</td>
+  </tr>
+  <tr>
+    <td>Unit II - Stages of project management</td>
+    <td>Various stages, tools and methods of project management including Project Initiation, planning, execution, monitoring and control, and closure./td>
+  </tr>
+  <tr>
+    <td>Unit III - Formulating a project plan - Conceptualizing and Initiating a Project</td>
+    <td>Drafting project charter - Setting the project goal, setting budget goals and designing budgets, identifying stakeholders, risks and constraints. Drafting risk management plans, communication plans and stakeholder management plan</td>
+  </tr>
+  <tr>
+    <td>Unit IV - Case study and leadership</td>
+    <td>Essential characteristics of good project leader, managing teams in projects, training for staff in social welfare projects; Communicating risk, essential characteristics of effective communication; Public relations.</td>
+  </tr>
+       <tr>
+    <td>Unit V</td>
+    <td> Case presentations on successful proposal & preparing a project proposal for funding
+</td>
+  </tr>
+</tbody></table>
+
+
+
+<h4>Master's Syllabus</h4>
+<table>
+  <tbody><tr>
+    <th>Unit</th>
+    <th>Concepts</th>
+  </tr>
+  <tr>
+    <td> Unit 01</td>
     <td>Project Management- An overview of concepts and processes organizations and work; 
 operations, understanding project, project life cycle, project management process; Activities, 
 output, outcome, deliverables, performance indicators and evidence</td>
