@@ -32,6 +32,7 @@ Learning Attitude - Attitude is one of the fundamental determinants of learning 
 <li>	Plagiarism - Presenting someone else’s ideas as your own, either verbatim or recast in your own words – is a serious academic offense with grave consequences. Please familiarize yourself with the discussion of plagiarism in our campus policies. All assignments are put through TurnitIn, and any similarity score of more than 40% will be flagged as plagiarism. The penalties are as follows: <br>1st instance of plagiarism - 0 marks for the specific assignment<br> 2nd instance of plagiarism - GRADE DOWN for the entire course <br> 3rd instance of plagiarism - FAIL in the course. <br> For group submissions, the above policy will be enforced on all the team members equally. </li>
 </ul>
 
+
 <h4>Bachelor's Syllabus</h4>
 <table>
   <tbody><tr>
