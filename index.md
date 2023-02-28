@@ -38,11 +38,9 @@ Learning Attitude - Attitude is one of the fundamental determinants of learning 
 
 <table>
   <tbody><tr>
-     
     <th>Unit</th>
-    <th>SWK 212 Concepts</th>
-  </tr>
-  <tr>
+    <th>SWK 602Concepts</th>
+   <tr>
     <td>Unit I - Project management fundamentals</td>
     <td>An overview of concepts and processes - understanding project, project life cycle, project management process; Activities, output, outcome, deliverables, performance indicators and evidence.</td>
   </tr>
