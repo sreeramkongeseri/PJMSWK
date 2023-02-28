@@ -14,7 +14,9 @@ Project management is the single most effective method of running programs and p
 <h4>Course Objective</h4>
 This is an entry-level course on the key concepts of project management. Students will gain knowledge to assess needs, formulate and coordinate projects and programs required for the success of an organization. Course covers a board, fundamental set of topics. PJM course will include a variety of pedagogical methods and academic exercises that will help simulate real-world challenges, thereby enhancing learning dividends for the students. <br><br>
 
-<strong>At the end of the course, students should be able to formulate project proposal, design project budget, create work breakdown structure, identify, and manage risks.</strong>
+<strong>SWK 212 - At the end of the course, students should be able to formulate project proposal and design a basic project budget.</strong>
+
+<strong>SWK 602 - At the end of the course, students should be able to formulate project proposal, design project budget, create work breakdown structure, identify and manage risks.</strong>
 <h4>Teaching Philosophy & Approach</h4>
 Learning Attitude - Attitude is one of the fundamental determinants of learning outcome. The more positive, the better. 
 <a href="https://files.eric.ed.gov/fulltext/EJ1227617.pdf" rel="nofollow">https://files.eric.ed.gov/fulltext/EJ1227617.pdf</a><br><br>
